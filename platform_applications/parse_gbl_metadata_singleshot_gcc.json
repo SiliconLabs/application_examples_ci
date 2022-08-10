@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
  "label": "gcc build",
- "message": "passing",
- "color": "green"
+ "message": "failing",
+ "color": "orange"
 }
