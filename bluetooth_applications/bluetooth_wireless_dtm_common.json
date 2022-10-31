@@ -3,6 +3,6 @@
  "technology": "Bluetooth",
  "license": "Zlib",
  "sdk": "v4.1.0",
- "ram": 10136,
- "flash": 182460
+ "ram": "9.9 KB",
+ "flash": "178.18 KB"
 }
