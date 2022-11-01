@@ -1,0 +1,8 @@
+{
+ "type": "Virtual application",
+ "technology": "Bluetooth",
+ "license": "Zlib",
+ "sdk": "v3.1.1",
+ "ram": "19.2 KB",
+ "flash": "268.41 KB"
+}

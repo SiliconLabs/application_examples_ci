@@ -1,0 +1,6 @@
+{
+ "type": "Virtual application",
+ "technology": "Zwave",
+ "license": "Zlib",
+ "sdk": "v3.0.2"
+}
