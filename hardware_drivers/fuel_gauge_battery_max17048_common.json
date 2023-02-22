@@ -1,6 +1,6 @@
 {
- "type": "Hardware driver",
- "technology": "Platform",
+ "type": "Hardware Driver",
+ "technology": "NA",
  "license": "Zlib",
  "sdk": "v4.0.2",
  "ram": "5.42 KB",

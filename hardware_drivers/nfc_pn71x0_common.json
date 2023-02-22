@@ -1,6 +1,6 @@
 {
- "type": "Hardware driver",
- "technology": "Platform",
+ "type": "Hardware Driver",
+ "technology": "NA",
  "license": "Zlib",
- "sdk": null
+ "sdk": ""
 }
