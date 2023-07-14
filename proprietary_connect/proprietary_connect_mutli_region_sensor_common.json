@@ -2,5 +2,7 @@
  "type": "Application Examples",
  "technology": "Connect",
  "license": "Zlib",
- "sdk": "v2.7.0"
+ "sdk": "v2.7.1",
+ "ram": "11.58 KB",
+ "flash": "114.76 KB"
 }
