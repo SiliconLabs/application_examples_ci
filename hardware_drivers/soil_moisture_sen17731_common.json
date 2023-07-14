@@ -1,8 +1,8 @@
 {
- "type": "Hardware driver",
+ "type": "Hardware Driver",
  "technology": "Platform",
  "license": "Zlib",
  "sdk": "v4.1.1",
  "ram": "4.45 KB",
- "flash": "17.74 KB"
+ "flash": "18.1 KB"
 }

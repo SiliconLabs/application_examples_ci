@@ -1,8 +1,8 @@
 {
- "type": "Virtual application",
+ "type": "Application Examples",
  "technology": "Zwave",
  "license": "Zlib",
  "sdk": "v3.0.0",
  "ram": "29.56 KB",
- "flash": "201.39 KB"
+ "flash": "201.75 KB"
 }
