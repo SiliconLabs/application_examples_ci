@@ -2,7 +2,7 @@
  "type": "Virtual Application",
  "technology": "Zigbee",
  "license": "Zlib",
- "sdk": "v4.1.3",
- "ram": "4.8 KB",
- "flash": "11.19 KB"
+ "sdk": "v4.2.2",
+ "ram": "16.33 KB",
+ "flash": "233.66 KB"
 }
