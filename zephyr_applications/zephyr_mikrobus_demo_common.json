@@ -1,0 +1,8 @@
+{
+ "type": "Virtual Application",
+ "technology": "Zephyz",
+ "license": "Zlib",
+ "sdk": "v3.4.0",
+ "ram": "14.36 KB",
+ "flash": "57.68 KB"
+}

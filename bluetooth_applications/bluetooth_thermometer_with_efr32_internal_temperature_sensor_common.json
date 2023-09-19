@@ -2,7 +2,7 @@
  "type": "Virtual Application",
  "technology": "Bluetooth",
  "license": "Zlib",
- "sdk": "v4.3.0",
+ "sdk": "v4.2.1",
  "ram": "7.5 KB",
  "flash": "165.88 KB"
 }
