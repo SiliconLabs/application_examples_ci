@@ -1,0 +1,6 @@
+{
+ "type": "Virtual Application",
+ "technology": "Zephyr",
+ "license": "Zlib",
+ "zephyr_verion": "v3.4.0"
+}
