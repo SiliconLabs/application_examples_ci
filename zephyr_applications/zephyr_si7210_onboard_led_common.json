@@ -1,6 +1,6 @@
 {
  "type": "Virtual Application",
- "technology": "Zephyz",
+ "technology": "Zephyr",
  "license": "Zlib",
  "sdk": "v3.4.0",
  "ram": "7.15 KB",
