@@ -1,9 +1,1 @@
-name: CI
-on: [push]
 
-jobs:
-  windows:
-    runs-on: windows-latest
-    steps:
-      - run: choco install ninja
-      - run: ninja --version
