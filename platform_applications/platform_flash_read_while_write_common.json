@@ -2,7 +2,7 @@
  "type": "Virtual Application",
  "technology": "Platform",
  "license": "Zlib",
- "sdk": "v3.0.0",
- "ram": "152.0 B",
- "flash": "6.26 KB"
+ "sdk": "v4.4.3",
+ "ram": "4.06 KB",
+ "flash": "4.11 KB"
 }
