@@ -2,5 +2,5 @@
  "type": "Virtual Application",
  "technology": "Platform",
  "license": "Zlib",
- "sdk": "v3.1.0"
+ "sdk": "v4.4.3"
 }
