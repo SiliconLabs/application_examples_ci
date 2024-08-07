@@ -2,5 +2,7 @@
  "type": "Application Examples",
  "technology": "Rail",
  "license": "Zlib",
- "sdk": ""
+ "sdk": "v2024.6.1-0",
+ "ram": "5.21 KB",
+ "flash": "59.0 KB"
 }
