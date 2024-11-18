@@ -1,6 +1,0 @@
-{
- "type": "Virtual Application",
- "technology": "Zigbee",
- "license": "Zlib",
- "sdk": "v2.6.5"
-}
