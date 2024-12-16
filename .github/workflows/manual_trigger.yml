@@ -1,0 +1,21 @@
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout arduio_staging repo
+        uses: actions/checkout@v4
+        with:
+          repository: SiliconLabs/wisun_applications_staging
+          ref: main
+      
+      - name: ls
+        run : |
+          ls wisun_applications_staging
+          # token: ${{ secrets.PAT }}
+      
