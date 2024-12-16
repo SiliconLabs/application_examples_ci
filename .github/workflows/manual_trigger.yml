@@ -12,10 +12,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: SiliconLabs/wisun_applications_staging
+          token: ${{ secrets.MY_PAT }}
           ref: main
+          path: wisun_applications_staging
       
       - name: ls
         run : |
           ls wisun_applications_staging
-          # token: ${{ secrets.PAT }}
+
       
