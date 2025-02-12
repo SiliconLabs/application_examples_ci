@@ -2,7 +2,7 @@
  "type": "Application Examples",
  "technology": "WiFi",
  "license": "Zlib",
- "sdk": "v4.4.3",
- "ram": "83.02 KB",
- "flash": "163.49 KB"
+ "sdk": "v2024.12.0",
+ "ram": "34.99 KB",
+ "flash": "176.18 KB"
 }
