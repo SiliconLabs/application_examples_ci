@@ -2,7 +2,7 @@
  "type": "Virtual Application",
  "technology": "Zephyr",
  "license": "Zlib",
- "zephyr_verion": "v3.6.0",
- "ram": "14.36 KB",
- "flash": "57.68 KB"
+ "zephyr_verion": "v4.0.0",
+ "ram": "14.55 KB",
+ "flash": "64.41 KB"
 }
